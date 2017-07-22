@@ -21,3 +21,5 @@ http://bluetalon.com/
 7. An exercise in using C#, WMIC, Active Directoty and Windows PowerShell in some cool hacky way. 
 
 8. Oh yeah.. and update the website so that it has some cool stuff on it and not something dumb.
+
+9. Oh Oh yeah.... there was this weather API exercise that I started in Starbucks with Dan... got to finish that.... 
