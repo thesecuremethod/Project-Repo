@@ -24,5 +24,5 @@ http://bluetalon.com/
 
 9. Oh Oh yeah.... there was this weather API exercise that I started in Starbucks with Dan... got to finish that.... 
 
-10. The Paramiko implementation ( installed locally via pip ) for pulling Std.out from a network host. ( Using ping to test Uptime ) 
+10. The Paramiko implementation ( installed locally ~/Documents/pingScript/ ) for pulling Std.out from a network host. ( Using ping to test Uptime ) 
 
