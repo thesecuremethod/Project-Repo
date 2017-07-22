@@ -23,3 +23,6 @@ http://bluetalon.com/
 8. Oh yeah.. and update the website so that it has some cool stuff on it and not something dumb.
 
 9. Oh Oh yeah.... there was this weather API exercise that I started in Starbucks with Dan... got to finish that.... 
+
+10. The Paramiko implementation ( installed locally via pip ) for pulling Std.out from a network host. ( Using ping to test Uptime ) 
+
