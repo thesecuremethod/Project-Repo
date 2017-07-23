@@ -24,6 +24,8 @@ http://bluetalon.com/
 
 9. Oh Oh yeah.... there was this weather API exercise that I started in Starbucks with Dan... got to finish that.... 
 
-10. The Paramiko implementation ( installed locally ~/Documents/pingScript/ ) for pulling Std.out from a network host. ( Using ping to test Uptime ) 
+10. The Paramiko implementation ( installed locally ~/Documents/pingScript/ ) for pulling Std.out from a network host. ( Using ping to test home network uptime/downtime and provide SMS alerts from a remote testing host) 
 
 11. Redeploy site on AWS. 
+
+12. Fork the macOS privacy/security implementation by drduh here: https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md and chart my progress through following the guide. 
