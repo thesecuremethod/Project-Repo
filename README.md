@@ -1,5 +1,5 @@
 # Project-Repo
-This will be an outlay of everything that I have on the menu for creating, building and tracking projects. Everything that I have been stewing on over the years as stuff I want to build will now come to fruition (or at least be abstracted into a list! :). 
+And now were finally here and ready to start tearing into this stuff. Go team! 
 
 Master Project List: 
 
